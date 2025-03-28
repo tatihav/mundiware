@@ -605,7 +605,7 @@ margin: 0 auto;
     position: absolute;
     left: 0;
     top: 0;
-    transform: translateY(0); /* ou ajuste com margin-top se necessário */
+    transform: translateY(0); 
     
   }
   
@@ -1282,9 +1282,9 @@ opacity: 0.7;
     margin: 0 auto;
   }
 
-  /* Editorias ocupa 100% */
+  
   .colunas-footer .coluna:nth-child(1) {
-    width: 100%;
+    width: 50%;
   }
 
   .colunas-footer .coluna:nth-child(1) ul {
